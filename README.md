@@ -28,7 +28,6 @@ Meu objetivo é transformar ideias em sites profissionais, simples e eficientes.
 - CSS3
 - JavaScript
 - Git & GitHub
-- Netlify (deploy)
 
 ---
 
@@ -58,8 +57,8 @@ Portfólio profissional com foco em consultoria fitness.
 ## 📲 Contato
 
 - GitHub: https://github.com/AkiraLeco
-- WhatsApp: (adicionar depois)
-- Instagram: (opcional)
+- WhatsApp: 55 (11) 99515-1617
+
 
 ---
 
