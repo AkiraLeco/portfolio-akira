@@ -5,7 +5,7 @@
 **Crio sites e aplicações web modernos, rápidos e responsivos, pensados primeiro para o celular.**
 
 <a href="https://wa.me/5511995151617"><img src="https://img.shields.io/badge/WhatsApp-Pedir%20orçamento-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-<a href="https://osteria-lume.vercel.app"><img src="https://img.shields.io/badge/Projeto-Ver%20online-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver projeto online"></a>
+<a href="PROJETOS.md"><img src="https://img.shields.io/badge/Projetos-Ver%20todos-2563eb?style=for-the-badge&logo=files&logoColor=white" alt="Ver todos os projetos"></a>
 <a href="https://github.com/AkiraLeco"><img src="https://img.shields.io/badge/GitHub-AkiraLeco-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 [Sobre](#-sobre-mim) · [Serviços](#-serviços) · [Projetos](#-projetos) · [Como trabalho](#-como-trabalho) · [Tecnologias](#-tecnologias) · [Atividade](#-atividade-no-github) · [Contato](#-contato)
@@ -56,61 +56,12 @@ Trabalho principalmente com **Next.js, React e TypeScript**, e uso **Supabase** 
 
 ## 📂 Projetos
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍝 Osteria Lume</h3>
-      <p><b>Cardápio digital</b> de um restaurante italiano fictício, feito para o cliente que chega pelo QR Code da mesa.</p>
-      <ul>
-        <li>80 pratos com foto, região, preço e selos (vegano, sem glúten…)</li>
-        <li>Busca que ignora acentos e filtros por selo</li>
-        <li>Menu executivo só em dias úteis, no horário do almoço</li>
-        <li>Português e inglês, tema claro e escuro</li>
-        <li>Páginas estáticas e imagens otimizadas</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/Tailwind_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-      </p>
-      <p>
-        <a href="https://osteria-lume.vercel.app"><b>🔗 Ver online</b></a> ·
-        <a href="https://github.com/AkiraLeco/osteria-lume">💻 Código</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🩸 Glicolog</h3>
-      <p><b>Diário web de glicemia e insulina</b> para pessoas com diabetes tipo 1, com conta própria, gráficos e importação de planilhas.</p>
-      <ul>
-        <li>Registro rápido com classificação enquanto digita</li>
-        <li>Gráficos de 1, 7 ou 30 dias com faixa-alvo</li>
-        <li>Zero violações de acessibilidade (WCAG 2.2 AA)</li>
-        <li>Privacidade (LGPD): cada conta vê só os próprios dados</li>
-        <li>~100 testes unitários e ~85 de ponta a ponta</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
-      </p>
-      <p>
-        <a href="https://github.com/AkiraLeco/glicolog"><b>💻 Código</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+| Projeto | Tipo | Status | Links |
+|---|---|:---:|---|
+| 🍝 **Osteria Lume** | Cardápio digital · Restaurante | 🟢 No ar | [Ver online](https://osteria-lume.vercel.app) · [Código](https://github.com/AkiraLeco/osteria-lume) |
+| 🩸 **Glicolog** | Sistema web · Saúde | ✅ Concluído | [Código](https://github.com/AkiraLeco/glicolog) |
 
-<details>
-<summary><b>📸 Ver capturas de tela do Glicolog</b></summary>
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkiraLeco/glicolog/HEAD/docs/capturas/registro-celular.png" alt="Registro de glicemia no celular" width="200">
-  <img src="https://raw.githubusercontent.com/AkiraLeco/glicolog/HEAD/docs/capturas/grafico-desktop.png" alt="Gráfico de 7 dias com faixa-alvo sombreada" width="560">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkiraLeco/glicolog/HEAD/docs/capturas/historico-tablet.png" alt="Histórico de registros no tablet" width="480">
-</p>
-</details>
+<a href="PROJETOS.md"><img src="https://img.shields.io/badge/Ver%20detalhes%20de%20todos%20os%20projetos%20%E2%86%92-2563eb?style=for-the-badge" alt="Ver detalhes de todos os projetos"></a>
 
 ---
 
