@@ -56,12 +56,25 @@ Trabalho principalmente com **Next.js, React e TypeScript**, e uso **Supabase** 
 
 ## 📂 Projetos
 
+### 🧪 Projetos fictícios
+
+> [!NOTE]
+> Criados por mim para estudo e para demonstrar o meu trabalho. Não são de clientes, e os negócios e dados mostrados não existem.
+
+<p align="center">
+  <a href="PROJETOS.md#-osteria-lume"><img src="imagens/osteria-lume/desktop-capa.jpg" alt="Osteria Lume, cardápio digital fictício" width="100%"></a>
+</p>
+
 | Projeto | Tipo | Status | Links |
 |---|---|:---:|---|
-| 🍝 **Osteria Lume** | Cardápio digital · Restaurante | 🟢 No ar | [Ver online](https://osteria-lume.vercel.app) · [Código](https://github.com/AkiraLeco/osteria-lume) |
+| 🍝 **Osteria Lume** | Cardápio digital · Restaurante | 🟢 Demonstração no ar | [Ver online](https://osteria-lume.vercel.app) · [Código](https://github.com/AkiraLeco/osteria-lume) |
 | 🩸 **Glicolog** | Sistema web · Saúde | ✅ Concluído | [Código](https://github.com/AkiraLeco/glicolog) |
 
-<a href="PROJETOS.md"><img src="https://img.shields.io/badge/Ver%20detalhes%20de%20todos%20os%20projetos%20%E2%86%92-2563eb?style=for-the-badge" alt="Ver detalhes de todos os projetos"></a>
+### 🏢 Projetos reais
+
+Sites feitos para clientes de verdade. **Ainda não há nenhum publicado. Quer que o seu negócio seja o primeiro?** [Fale comigo](https://wa.me/5511995151617).
+
+<a href="PROJETOS.md"><img src="https://img.shields.io/badge/Ver%20detalhes%20e%20imagens%20de%20todos%20os%20projetos%20%E2%86%92-2563eb?style=for-the-badge" alt="Ver detalhes e imagens de todos os projetos"></a>
 
 ---
 

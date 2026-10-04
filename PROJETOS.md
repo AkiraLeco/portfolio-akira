@@ -4,29 +4,41 @@
 
 [← Voltar ao portfólio](README.md)
 
+[🧪 Projetos fictícios](#-projetos-fictícios) · [🏢 Projetos reais](#-projetos-reais)
+
 </div>
 
 ---
 
-## 📋 Todos os projetos
+## 🧪 Projetos fictícios
+
+> [!NOTE]
+> **Estes projetos são fictícios.** Foram criados por mim para estudo e para demonstrar o meu trabalho. O restaurante e os dados mostrados não existem, e nenhum deles foi feito para um cliente.
 
 | Projeto | Tipo | Status | Tecnologias | Links |
 |---|---|:---:|---|---|
-| 🍝 [**Osteria Lume**](#-osteria-lume) | Cardápio digital · Restaurante | 🟢 No ar | Next.js 16 · TypeScript · Tailwind 4 | [Ver online](https://osteria-lume.vercel.app) · [Código](https://github.com/AkiraLeco/osteria-lume) |
+| 🍝 [**Osteria Lume**](#-osteria-lume) | Cardápio digital · Restaurante | 🟢 Demonstração no ar | Next.js 16 · TypeScript · Tailwind 4 | [Ver online](https://osteria-lume.vercel.app) · [Código](https://github.com/AkiraLeco/osteria-lume) |
 | 🩸 [**Glicolog**](#-glicolog) | Sistema web · Saúde | ✅ Concluído | Next.js 16 · Supabase · Playwright | [Código](https://github.com/AkiraLeco/glicolog) |
 
----
+### 🍝 Osteria Lume
 
-## 🍝 Osteria Lume
+<img src="https://img.shields.io/badge/Projeto%20fictício-f59e0b?style=flat-square" alt="Projeto fictício"> <img src="https://img.shields.io/badge/Cardápio%20digital-2563eb?style=flat-square" alt="Cardápio digital"> <img src="https://img.shields.io/badge/Demonstração%20no%20ar-22c55e?style=flat-square" alt="Demonstração no ar">
 
-> **Tipo:** Cardápio digital · **Status:** 🟢 No ar
+Cardápio digital de um **restaurante italiano fictício**, feito para o cliente que chega pelo QR Code da mesa. Funciona em qualquer tela, com prioridade para o celular.
 
-Cardápio digital de um restaurante italiano fictício, feito para o cliente que chega pelo QR Code da mesa. Funciona em qualquer tela, com prioridade para o celular.
+<p align="center">
+  <img src="imagens/osteria-lume/desktop-capa.jpg" alt="Capa do Osteria Lume no computador, com o indicador Aberto agora" width="100%">
+</p>
+<p align="center">
+  <img src="imagens/osteria-lume/desktop-cardapio.jpg" alt="Cardápio no computador com filtros, categorias e cards de pratos" width="58%">
+  <img src="imagens/osteria-lume/celular-prato.jpg" alt="Detalhe de um prato aberto no celular" width="19%">
+  <img src="imagens/osteria-lume/celular-escuro.jpg" alt="Cardápio no celular em tema escuro, mostrando o Almoço Executivo" width="19%">
+</p>
 
 **Destaques**
 - 80 pratos regionais italianos com foto, região de origem, preço e selos (vegano, sem glúten, picante…)
 - Busca por nome ou ingrediente que ignora acentos, e filtros por selo
-- Menu executivo que só aparece em dias úteis, no horário do almoço (fuso de São Paulo)
+- Almoço executivo que só aparece em dias úteis, no horário do almoço (fuso de São Paulo)
 - Português e inglês, com o idioma escolhido automaticamente pelo navegador
 - Tema claro e escuro, indicador de "Aberto agora" e horário de funcionamento
 - Páginas estáticas com imagens otimizadas, rápidas até em conexão móvel
@@ -36,17 +48,18 @@ Cardápio digital de um restaurante italiano fictício, feito para o cliente que
 <a href="https://osteria-lume.vercel.app"><img src="https://img.shields.io/badge/Ver%20online-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver online"></a>
 <a href="https://github.com/AkiraLeco/osteria-lume"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"></a>
 
----
+### 🩸 Glicolog
 
-## 🩸 Glicolog
+<img src="https://img.shields.io/badge/Projeto%20fictício-f59e0b?style=flat-square" alt="Projeto fictício"> <img src="https://img.shields.io/badge/Sistema%20web-2563eb?style=flat-square" alt="Sistema web"> <img src="https://img.shields.io/badge/Concluído-22c55e?style=flat-square" alt="Concluído">
 
-> **Tipo:** Sistema web · Saúde · **Status:** ✅ Concluído
-
-Diário web de glicemia e insulina para pessoas com diabetes tipo 1, com conta própria, gráficos e importação de planilhas. Funciona de celulares pequenos a monitores largos.
+Diário web de glicemia e insulina para pessoas com diabetes tipo 1, com conta própria, gráficos e importação de planilhas. **Projeto de estudo:** não é um produto em uso e não substitui orientação médica.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AkiraLeco/glicolog/HEAD/docs/capturas/registro-celular.png" alt="Registro de glicemia no celular" width="200">
-  <img src="https://raw.githubusercontent.com/AkiraLeco/glicolog/HEAD/docs/capturas/grafico-desktop.png" alt="Gráfico de 7 dias com faixa-alvo sombreada" width="560">
+  <img src="https://raw.githubusercontent.com/AkiraLeco/glicolog/HEAD/docs/capturas/grafico-desktop.png" alt="Gráfico de 7 dias com faixa-alvo sombreada" width="74%">
+  <img src="https://raw.githubusercontent.com/AkiraLeco/glicolog/HEAD/docs/capturas/registro-celular.png" alt="Registro de glicemia no celular" width="22%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AkiraLeco/glicolog/HEAD/docs/capturas/historico-tablet.png" alt="Histórico de registros no tablet" width="60%">
 </p>
 
 **Destaques**
@@ -64,9 +77,10 @@ Diário web de glicemia e insulina para pessoas com diabetes tipo 1, com conta p
 
 ---
 
-## 🛠️ Próximos projetos
+## 🏢 Projetos reais
 
-Tipos de site que estou preparando para o portfólio:
+> [!TIP]
+> **Sites feitos para clientes e negócios de verdade.** Ainda não há nenhum publicado aqui. Os próximos tipos de site que quero fazer:
 
 | Tipo | Para quem |
 |---|---|
@@ -76,13 +90,13 @@ Tipos de site que estou preparando para o portfólio:
 | 💄 Site institucional | Estética e beleza |
 | 🚀 Landing page | Negócios locais em geral |
 
+**Quer que o seu negócio seja o primeiro desta lista?**
+
+<a href="https://wa.me/5511995151617"><img src="https://img.shields.io/badge/WhatsApp-Pedir%20orçamento-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+
 ---
 
 <div align="center">
-
-**Gostou de algum projeto? Quer um parecido para o seu negócio?**
-
-<a href="https://wa.me/5511995151617"><img src="https://img.shields.io/badge/WhatsApp-Pedir%20orçamento-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 
 [← Voltar ao portfólio](README.md)
 
