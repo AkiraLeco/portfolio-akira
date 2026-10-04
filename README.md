@@ -61,14 +61,25 @@ Trabalho principalmente com **Next.js, React e TypeScript**, e uso **Supabase** 
 > [!NOTE]
 > Criados por mim para estudo e para demonstrar o meu trabalho. Não são de clientes, e os negócios e dados mostrados não existem.
 
-<p align="center">
-  <a href="PROJETOS.md#-osteria-lume"><img src="imagens/osteria-lume/desktop-capa.jpg" alt="Osteria Lume, cardápio digital fictício" width="100%"></a>
-</p>
-
 | Projeto | Tipo | Status | Links |
 |---|---|:---:|---|
 | 🍝 **Osteria Lume** | Cardápio digital · Restaurante | 🟢 Demonstração no ar | [Ver online](https://osteria-lume.vercel.app) · [Código](https://github.com/AkiraLeco/osteria-lume) |
 | 🩸 **Glicolog** | Sistema web · Saúde | ✅ Concluído | [Código](https://github.com/AkiraLeco/glicolog) |
+
+<details>
+<summary><b>🖼️ Ver imagens dos projetos</b></summary>
+<br>
+
+<p align="center">
+  <a href="PROJETOS.md#-osteria-lume"><img src="imagens/osteria-lume/desktop-capa.jpg" alt="Osteria Lume, cardápio digital fictício" width="100%"></a>
+  <br><sub>Osteria Lume · cardápio digital (fictício)</sub>
+</p>
+<p align="center">
+  <a href="PROJETOS.md#-glicolog"><img src="https://raw.githubusercontent.com/AkiraLeco/glicolog/HEAD/docs/capturas/grafico-desktop.png" alt="Glicolog, diário de glicemia fictício" width="100%"></a>
+  <br><sub>Glicolog · sistema web de saúde (fictício)</sub>
+</p>
+
+</details>
 
 ### 🏢 Projetos reais
 

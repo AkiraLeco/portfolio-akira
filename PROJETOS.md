@@ -26,6 +26,10 @@
 
 Cardápio digital de um **restaurante italiano fictício**, feito para o cliente que chega pelo QR Code da mesa. Funciona em qualquer tela, com prioridade para o celular.
 
+<details>
+<summary><b>🖼️ Ver imagens do Osteria Lume (4)</b></summary>
+<br>
+
 <p align="center">
   <img src="imagens/osteria-lume/desktop-capa.jpg" alt="Capa do Osteria Lume no computador, com o indicador Aberto agora" width="100%">
 </p>
@@ -34,6 +38,8 @@ Cardápio digital de um **restaurante italiano fictício**, feito para o cliente
   <img src="imagens/osteria-lume/celular-prato.jpg" alt="Detalhe de um prato aberto no celular" width="19%">
   <img src="imagens/osteria-lume/celular-escuro.jpg" alt="Cardápio no celular em tema escuro, mostrando o Almoço Executivo" width="19%">
 </p>
+
+</details>
 
 **Destaques**
 - 80 pratos regionais italianos com foto, região de origem, preço e selos (vegano, sem glúten, picante…)
@@ -54,6 +60,10 @@ Cardápio digital de um **restaurante italiano fictício**, feito para o cliente
 
 Diário web de glicemia e insulina para pessoas com diabetes tipo 1, com conta própria, gráficos e importação de planilhas. **Projeto de estudo:** não é um produto em uso e não substitui orientação médica.
 
+<details>
+<summary><b>🖼️ Ver imagens do Glicolog (3)</b></summary>
+<br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/AkiraLeco/glicolog/HEAD/docs/capturas/grafico-desktop.png" alt="Gráfico de 7 dias com faixa-alvo sombreada" width="74%">
   <img src="https://raw.githubusercontent.com/AkiraLeco/glicolog/HEAD/docs/capturas/registro-celular.png" alt="Registro de glicemia no celular" width="22%">
@@ -61,6 +71,8 @@ Diário web de glicemia e insulina para pessoas com diabetes tipo 1, com conta p
 <p align="center">
   <img src="https://raw.githubusercontent.com/AkiraLeco/glicolog/HEAD/docs/capturas/historico-tablet.png" alt="Histórico de registros no tablet" width="60%">
 </p>
+
+</details>
 
 **Destaques**
 - Conta com confirmação por e-mail, recuperação de senha e exclusão de todos os dados
