@@ -20,7 +20,6 @@
 | 🍝 [**Osteria Lume**](#osteria-lume) | Lojas e cardápios | 🟢 Demonstração no ar | Next.js 16 · React 19 · TypeScript | [Ver online](https://osteria-lume.vercel.app) · [Código](https://github.com/AkiraLeco/osteria-lume) |
 | 🩸 [**Glicolog**](#glicolog) | Sistemas web | ✅ Concluído | Next.js 16 · TypeScript · Tailwind CSS | [Código](https://github.com/AkiraLeco/glicolog) |
 | 🃏 [**Vino Cards**](#vino-cards) | Lojas e cardápios | 🚧 Em desenvolvimento | Next.js 16 · React 19 · TypeScript | [Ver online](https://vino-cards.vercel.app) · [Código](https://github.com/AkiraLeco/vino-cards) |
-| 🎓 [**GradeUp**](#gradeup) | Sistemas web | 🎓 Acadêmico | Next.js 16 · TypeScript · Tailwind CSS 4 | Repositório privado |
 | 🛍️ [**NORTE**](#norte-ecommerce) | Lojas e cardápios | ✅ Concluído | React · Vite · React Router | [Código](https://github.com/AkiraLeco/norte-ecommerce) |
 | 🍽️ [**Sabor & Arte**](#sabor-e-arte) | Lojas e cardápios | ✅ Concluído | React · Vite · React Router | [Código](https://github.com/AkiraLeco/sabor-e-arte) |
 | 🏋️ [**FORJA Academia**](#academia) | Sites e landing pages | ✅ Concluído | React · Vite · React Router | [Código](https://github.com/AkiraLeco/forja-academia) |
@@ -149,36 +148,6 @@ Vitrine online para um vendedor de cartas de Pokémon TCG e Riftbound, produtos 
 
 <a href="https://vino-cards.vercel.app"><img src="https://img.shields.io/badge/Ver%20online-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver online"></a>
 <a href="https://github.com/AkiraLeco/vino-cards"><img src="https://img.shields.io/badge/C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código no GitHub"></a>
-
-### 🎓 GradeUp
-<a id="gradeup"></a>
-
-<img src="https://img.shields.io/badge/Projeto%20acad%C3%AAmico-8b5cf6?style=flat-square" alt="Projeto acadêmico"> <img src="https://img.shields.io/badge/Sistemas%20web-1e293b?style=flat-square" alt="Sistemas web"> <img src="https://img.shields.io/badge/Acad%C3%AAmico-8b5cf6?style=flat-square" alt="🎓 Acadêmico">
-
-Alunos fazem atividades e ganham pontos pela nota, trocando-os por recompensas na loja. Professores criam, corrigem e acompanham turmas; a gestão cuida de usuários, loja, eventos e comunicados. É a reescrita de uma versão original em PHP/MySQL, com falhas de segurança e bugs corrigidos.
-
-> Projeto acadêmico, sem versão pública no ar.
-
-<p align="center">
-  <img src="imagens/gradeup/desktop.webp" alt="GradeUp no computador" width="74%">
-  <img src="imagens/gradeup/mobile.webp" alt="GradeUp no celular" width="22%">
-</p>
-
-**Destaques**
-- Três perfis: aluno, professor e gestão
-- Atividades com correção automática, boletim por bimestre e ranking
-- Notificações em tempo real, tema claro/escuro e app instalável (PWA)
-- Tutor de IA e geração de questões (opcional)
-- Testes automatizados (Vitest, Playwright) e CI
-
-**Detalhes técnicos**
-- Reescrita de PHP/MySQL para Next.js, TypeScript e Supabase
-- Validação com Zod e testes unitários e de ponta a ponta
-- App instalável (PWA) com tema claro e escuro
-
-<img src="https://img.shields.io/badge/Next.js%2016-334155?style=flat-square" alt="Next.js 16"> <img src="https://img.shields.io/badge/TypeScript-334155?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Tailwind%20CSS%204-334155?style=flat-square" alt="Tailwind CSS 4"> <img src="https://img.shields.io/badge/shadcn%2Fui-334155?style=flat-square" alt="shadcn/ui"> <img src="https://img.shields.io/badge/Supabase-334155?style=flat-square" alt="Supabase"> <img src="https://img.shields.io/badge/Zod-334155?style=flat-square" alt="Zod"> <img src="https://img.shields.io/badge/Vitest-334155?style=flat-square" alt="Vitest"> <img src="https://img.shields.io/badge/Playwright-334155?style=flat-square" alt="Playwright">
-
-
 
 ### 🛍️ NORTE
 <a id="norte-ecommerce"></a>

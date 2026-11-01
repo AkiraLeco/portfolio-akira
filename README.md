@@ -8,7 +8,7 @@
 <a href="PROJETOS.md"><img src="https://img.shields.io/badge/Projetos-Ver%20todos-2563eb?style=for-the-badge&logo=files&logoColor=white" alt="Ver todos os projetos"></a>
 <a href="https://github.com/AkiraLeco"><img src="https://img.shields.io/badge/GitHub-AkiraLeco-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-<img src="https://img.shields.io/badge/Projetos-9-2563eb?style=flat-square" alt="9 projetos"> <img src="https://img.shields.io/badge/Reposit%C3%B3rios%20p%C3%BAblicos-8-22c55e?style=flat-square" alt="Repositórios públicos"> <img src="https://img.shields.io/badge/Foco-mobile%20first-8b5cf6?style=flat-square" alt="Mobile first"> <img src="https://img.shields.io/badge/Acessibilidade-WCAG%202.2%20AA-f59e0b?style=flat-square" alt="WCAG 2.2 AA">
+<img src="https://img.shields.io/badge/Projetos-8-2563eb?style=flat-square" alt="8 projetos"> <img src="https://img.shields.io/badge/Reposit%C3%B3rios%20p%C3%BAblicos-8-22c55e?style=flat-square" alt="Repositórios públicos"> <img src="https://img.shields.io/badge/Foco-mobile%20first-8b5cf6?style=flat-square" alt="Mobile first"> <img src="https://img.shields.io/badge/Acessibilidade-WCAG%202.2%20AA-f59e0b?style=flat-square" alt="WCAG 2.2 AA">
 
 [Sobre](#-sobre-mim) · [Serviços](#-serviços) · [Projetos](#-projetos) · [Como trabalho](#-como-trabalho) · [Tecnologias](#-tecnologias) · [Atividade](#-atividade-no-github) · [Contato](#-contato)
 
@@ -70,12 +70,11 @@ Trabalho principalmente com **Next.js, React e TypeScript**, e uso **Supabase** 
 <td width="33%" align="center" valign="top"><a href="PROJETOS.md#vino-cards"><img src="imagens/vino-cards/desktop.webp" alt="Vino Cards" width="100%"></a><br><b>🃏 Vino Cards</b><br><sub>Vitrine de cartas Pokémon TCG e Riftbound</sub></td>
   </tr>
   <tr>
-<td width="33%" align="center" valign="top"><a href="PROJETOS.md#gradeup"><img src="imagens/gradeup/desktop.webp" alt="GradeUp" width="100%"></a><br><b>🎓 GradeUp</b><br><sub>Plataforma educacional gamificada</sub></td>
 <td width="33%" align="center" valign="top"><a href="PROJETOS.md#norte-ecommerce"><img src="imagens/norte-ecommerce/desktop.webp" alt="NORTE" width="100%"></a><br><b>🛍️ NORTE</b><br><sub>E-commerce de moda com painel administrativo</sub></td>
 <td width="33%" align="center" valign="top"><a href="PROJETOS.md#sabor-e-arte"><img src="imagens/sabor-e-arte/desktop.webp" alt="Sabor & Arte" width="100%"></a><br><b>🍽️ Sabor & Arte</b><br><sub>Restaurante com cardápio digital e pedidos online</sub></td>
+<td width="33%" align="center" valign="top"><a href="PROJETOS.md#academia"><img src="imagens/academia/desktop.webp" alt="FORJA Academia" width="100%"></a><br><b>🏋️ FORJA Academia</b><br><sub>Site institucional de alta conversão para academia</sub></td>
   </tr>
   <tr>
-<td width="33%" align="center" valign="top"><a href="PROJETOS.md#academia"><img src="imagens/academia/desktop.webp" alt="FORJA Academia" width="100%"></a><br><b>🏋️ FORJA Academia</b><br><sub>Site institucional de alta conversão para academia</sub></td>
 <td width="33%" align="center" valign="top"><a href="PROJETOS.md#barbearia"><img src="imagens/barbearia/desktop.webp" alt="Black Crown Barbershop" width="100%"></a><br><b>💈 Black Crown Barbershop</b><br><sub>Barbearia premium com agendamento online</sub></td>
 <td width="33%" align="center" valign="top"><a href="PROJETOS.md#loja-premium"><img src="imagens/loja-premium/desktop.webp" alt="Maison Áurea" width="100%"></a><br><b>💎 Maison Áurea</b><br><sub>Loja virtual premium de joias</sub></td>
   </tr>
@@ -86,7 +85,6 @@ Trabalho principalmente com **Next.js, React e TypeScript**, e uso **Supabase** 
 | 🍝 **Osteria Lume** | Cardápio digital de restaurante italiano | 🟢 Demonstração no ar | [Ver online](https://osteria-lume.vercel.app) · [Código](https://github.com/AkiraLeco/osteria-lume) |
 | 🩸 **Glicolog** | Diário de glicemia e insulina para diabetes tipo 1 | ✅ Concluído | [Código](https://github.com/AkiraLeco/glicolog) |
 | 🃏 **Vino Cards** | Vitrine de cartas Pokémon TCG e Riftbound | 🚧 Em desenvolvimento | [Ver online](https://vino-cards.vercel.app) · [Código](https://github.com/AkiraLeco/vino-cards) |
-| 🎓 **GradeUp** | Plataforma educacional gamificada | 🎓 Acadêmico | Privado |
 | 🛍️ **NORTE** | E-commerce de moda com painel administrativo | ✅ Concluído | [Código](https://github.com/AkiraLeco/norte-ecommerce) |
 | 🍽️ **Sabor & Arte** | Restaurante com cardápio digital e pedidos online | ✅ Concluído | [Código](https://github.com/AkiraLeco/sabor-e-arte) |
 | 🏋️ **FORJA Academia** | Site institucional de alta conversão para academia | ✅ Concluído | [Código](https://github.com/AkiraLeco/forja-academia) |
