@@ -8,6 +8,8 @@
 <a href="PROJETOS.md"><img src="https://img.shields.io/badge/Projetos-Ver%20todos-2563eb?style=for-the-badge&logo=files&logoColor=white" alt="Ver todos os projetos"></a>
 <a href="https://github.com/AkiraLeco"><img src="https://img.shields.io/badge/GitHub-AkiraLeco-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
+<img src="https://img.shields.io/badge/Projetos-9-2563eb?style=flat-square" alt="9 projetos"> <img src="https://img.shields.io/badge/Reposit%C3%B3rios%20p%C3%BAblicos-8-22c55e?style=flat-square" alt="Repositórios públicos"> <img src="https://img.shields.io/badge/Foco-mobile%20first-8b5cf6?style=flat-square" alt="Mobile first"> <img src="https://img.shields.io/badge/Acessibilidade-WCAG%202.2%20AA-f59e0b?style=flat-square" alt="WCAG 2.2 AA">
+
 [Sobre](#-sobre-mim) · [Serviços](#-serviços) · [Projetos](#-projetos) · [Como trabalho](#-como-trabalho) · [Tecnologias](#-tecnologias) · [Atividade](#-atividade-no-github) · [Contato](#-contato)
 
 </div>
@@ -61,25 +63,35 @@ Trabalho principalmente com **Next.js, React e TypeScript**, e uso **Supabase** 
 > [!NOTE]
 > Criados por mim para estudo e para demonstrar o meu trabalho. Não são de clientes, e os negócios e dados mostrados não existem.
 
+<table>
+  <tr>
+<td width="33%" align="center" valign="top"><a href="PROJETOS.md#osteria-lume"><img src="imagens/osteria-lume/desktop-capa.jpg" alt="Osteria Lume" width="100%"></a><br><b>🍝 Osteria Lume</b><br><sub>Cardápio digital de restaurante italiano</sub></td>
+<td width="33%" align="center" valign="top"><a href="PROJETOS.md#glicolog"><img src="https://raw.githubusercontent.com/AkiraLeco/glicolog/HEAD/docs/capturas/grafico-desktop.png" alt="Glicolog" width="100%"></a><br><b>🩸 Glicolog</b><br><sub>Diário de glicemia e insulina para diabetes tipo 1</sub></td>
+<td width="33%" align="center" valign="top"><a href="PROJETOS.md#vino-cards"><img src="imagens/vino-cards/desktop.webp" alt="Vino Cards" width="100%"></a><br><b>🃏 Vino Cards</b><br><sub>Vitrine de cartas Pokémon TCG e Riftbound</sub></td>
+  </tr>
+  <tr>
+<td width="33%" align="center" valign="top"><a href="PROJETOS.md#gradeup"><img src="imagens/gradeup/desktop.webp" alt="GradeUp" width="100%"></a><br><b>🎓 GradeUp</b><br><sub>Plataforma educacional gamificada</sub></td>
+<td width="33%" align="center" valign="top"><a href="PROJETOS.md#norte-ecommerce"><img src="imagens/norte-ecommerce/desktop.webp" alt="NORTE" width="100%"></a><br><b>🛍️ NORTE</b><br><sub>E-commerce de moda com painel administrativo</sub></td>
+<td width="33%" align="center" valign="top"><a href="PROJETOS.md#sabor-e-arte"><img src="imagens/sabor-e-arte/desktop.webp" alt="Sabor & Arte" width="100%"></a><br><b>🍽️ Sabor & Arte</b><br><sub>Restaurante com cardápio digital e pedidos online</sub></td>
+  </tr>
+  <tr>
+<td width="33%" align="center" valign="top"><a href="PROJETOS.md#academia"><img src="imagens/academia/desktop.webp" alt="FORJA Academia" width="100%"></a><br><b>🏋️ FORJA Academia</b><br><sub>Site institucional de alta conversão para academia</sub></td>
+<td width="33%" align="center" valign="top"><a href="PROJETOS.md#barbearia"><img src="imagens/barbearia/desktop.webp" alt="Black Crown Barbershop" width="100%"></a><br><b>💈 Black Crown Barbershop</b><br><sub>Barbearia premium com agendamento online</sub></td>
+<td width="33%" align="center" valign="top"><a href="PROJETOS.md#loja-premium"><img src="imagens/loja-premium/desktop.webp" alt="Maison Áurea" width="100%"></a><br><b>💎 Maison Áurea</b><br><sub>Loja virtual premium de joias</sub></td>
+  </tr>
+</table>
+
 | Projeto | Tipo | Status | Links |
 |---|---|:---:|---|
-| 🍝 **Osteria Lume** | Cardápio digital · Restaurante | 🟢 Demonstração no ar | [Ver online](https://osteria-lume.vercel.app) · [Código](https://github.com/AkiraLeco/osteria-lume) |
-| 🩸 **Glicolog** | Sistema web · Saúde | ✅ Concluído | [Código](https://github.com/AkiraLeco/glicolog) |
-
-<details>
-<summary><b>🖼️ Ver imagens dos projetos</b></summary>
-<br>
-
-<p align="center">
-  <a href="PROJETOS.md#-osteria-lume"><img src="imagens/osteria-lume/desktop-capa.jpg" alt="Osteria Lume, cardápio digital fictício" width="100%"></a>
-  <br><sub>Osteria Lume · cardápio digital (fictício)</sub>
-</p>
-<p align="center">
-  <a href="PROJETOS.md#-glicolog"><img src="https://raw.githubusercontent.com/AkiraLeco/glicolog/HEAD/docs/capturas/grafico-desktop.png" alt="Glicolog, diário de glicemia fictício" width="100%"></a>
-  <br><sub>Glicolog · sistema web de saúde (fictício)</sub>
-</p>
-
-</details>
+| 🍝 **Osteria Lume** | Cardápio digital de restaurante italiano | 🟢 Demonstração no ar | [Ver online](https://osteria-lume.vercel.app) · [Código](https://github.com/AkiraLeco/osteria-lume) |
+| 🩸 **Glicolog** | Diário de glicemia e insulina para diabetes tipo 1 | ✅ Concluído | [Código](https://github.com/AkiraLeco/glicolog) |
+| 🃏 **Vino Cards** | Vitrine de cartas Pokémon TCG e Riftbound | 🚧 Em desenvolvimento | [Ver online](https://vino-cards.vercel.app) · [Código](https://github.com/AkiraLeco/vino-cards) |
+| 🎓 **GradeUp** | Plataforma educacional gamificada | 🎓 Acadêmico | Privado |
+| 🛍️ **NORTE** | E-commerce de moda com painel administrativo | ✅ Concluído | [Código](https://github.com/AkiraLeco/norte-ecommerce) |
+| 🍽️ **Sabor & Arte** | Restaurante com cardápio digital e pedidos online | ✅ Concluído | [Código](https://github.com/AkiraLeco/sabor-e-arte) |
+| 🏋️ **FORJA Academia** | Site institucional de alta conversão para academia | ✅ Concluído | [Código](https://github.com/AkiraLeco/forja-academia) |
+| 💈 **Black Crown Barbershop** | Barbearia premium com agendamento online | ✅ Concluído | [Código](https://github.com/AkiraLeco/barbearia-black-crown) |
+| 💎 **Maison Áurea** | Loja virtual premium de joias | ✅ Concluído | [Código](https://github.com/AkiraLeco/maison-aurea) |
 
 ### 🏢 Projetos reais
 
@@ -113,12 +125,17 @@ Sites feitos para clientes de verdade. **Ainda não há nenhum publicado. Quer q
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
     </td>
   </tr>
   <tr>
     <td><b>Back-end e dados</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
       <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod">
